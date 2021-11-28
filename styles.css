@@ -1,0 +1,174 @@
+.logo {
+    width: 10%;
+}
+
+
+body {
+    font-family: "Montserrat";
+}
+
+
+#title {
+    background-color:#a4c7e0;
+
+}
+
+.hello {
+    padding-top: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.Heading {
+    font-family:"Montserrat";
+    font-weight: 500;
+    font-size:2rem;
+    line-height: 1.25;
+    padding-bottom: 10%;  
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: 500;
+    
+}
+
+h3 {
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+h5 {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+p {
+    color: #8f8f8f;
+}
+/* Navigation Bar */
+.navbar {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 2rem;
+    margin-bottom:0;
+}
+
+.nav-item {
+    padding:0 18px;
+    margin-bottom: 40px;
+    padding-top: 0px;
+    margin:0;
+}
+
+.nav-link {
+    font-size: 1rem;
+    font-family: "Montserrat";
+}
+
+
+/* Download Buttons 
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+*/
+
+.button:hover {
+    background-color:#f094b0;
+    color:cornsilk;
+    
+}
+
+/* Phone Image */
+
+.PhoneImage {
+    width: 15%;
+    transform: rotate(25deg);
+    position: absolute;
+    margin-top: -50px;
+    left:60%;
+   
+  
+}
+
+
+/* Features Section */
+
+
+#features {
+    padding: 3% 15%;
+    background-color:white;
+    position: relative;
+    z-index: 1;
+
+    
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #f094b0;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #f55081;
+}
+
+/* Testimonal section */
+
+#testimonials {
+    position: relative;
+    text-align: center;
+    background-color:#a4c7e0;
+    z-index:1;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.HoodieImage {
+    width: 20%;
+    border-radius:100%;
+    margin: 20px;
+
+}
+
+.MaskImage {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+   
+}
+
+#pricing {
+    padding: 1% 10%;
+}
+.card-image {
+    width: 70%;
+    margin:10px;
+}
+
+#footer{
+    margin-top:40px;
+    background-color: #c1d8d7;
+    text-align: center;
+   padding:1%;
+}
