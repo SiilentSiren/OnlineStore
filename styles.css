@@ -185,3 +185,7 @@ p {
         transform:rotate(0);
     }
 }
+
+.social-icon {
+    margin: 5px;
+}
